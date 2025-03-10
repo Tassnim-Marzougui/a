@@ -1,1 +1,2 @@
-examen tpg2 à résoudre
+
+Ajout du fichier tpg2.txt avec son contenu
